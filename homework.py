@@ -17,7 +17,8 @@ print(Num3/Num4)
 
 name="saba"
 name="giorgi"
-print("name")
+print(name)
 
 num=40
+
 print(num*3)
