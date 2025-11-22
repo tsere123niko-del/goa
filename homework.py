@@ -1,24 +1,11 @@
-# debugging ნიშნავს იმას რომ რაიმე შეცდომები გავასწოროთ
-
-Name=("age 14")
-print(Name)
-
-Num1=(4564)
-Num2=(4)
-print(Num1 / Num2)
-
-Num3=(9768)
-Num4=(3)
-print(Num3/Num4)
+age = int(input("enter your age: "))
+print(age // 10)
 
 
+num1 = int(input("enter num1: "))
+num2 = int(input("enter num2: "))
+print(num1 * num2)
 
 
-
-name="saba"
-name="giorgi"
-print(name)
-
-num=40
-
-print(num*3)
+age = int(input("enter your age: "))
+print(age)
